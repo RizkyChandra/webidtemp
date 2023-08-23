@@ -1,0 +1,12 @@
+{
+    "typescript.inlayHints.parameterNames.enabled": "all",
+    "editor.suggest.showTypeParameters": true,
+    "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "editor.parameterHints.enabled": true
+    ,
+    "prettier.documentSelectors": ["**/*.astro"],
+    "[astro]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+  
